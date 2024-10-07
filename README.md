@@ -1,7 +1,7 @@
 # Hi, I'm Lucas Cueli! 👋
 
 ## 🚀 About Me
-I'm a Junior Developer...
+I'm just another Junior Developer...
 
 
 ## 🔗 Links
